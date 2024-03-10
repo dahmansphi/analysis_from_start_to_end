@@ -56,8 +56,11 @@ Analysis is an art that has the characteristics of being a two-edged sword. In o
 Well, one can argue there is nothing wrong with that, but the problem arises when one fails to understand the raw materials that are needed to present those tables and figures, in addition, the fundamentals of those tools and tests that produce them. To this end, **this book aims to address this mis conceptual understanding about analysis**; basically, the book materials are constructed in such way that one can:
  
 > firstly, understand the important of data that come from solid research, 
+
 > secondly, to understand the fundamentals of analysis from philosophical and scientifical perspective, 
+
 > thirdly, complete grasp on the meaning of hypothesis, as forming, articulating, etc., 
+
 > and finally, the comprehensive knowledge on the tests and tools are there to help you implement your analysis. 
 
 To this end, **the second book** is carefully crafted to meet all the requirements to build your product on the right foundation of analysis. Here is a quick view of the content of the book. 
