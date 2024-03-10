@@ -50,6 +50,7 @@ I don’t want to stick to that _abstract and direct_ definition from the academ
 Analysis is an art that has the characteristics of being a two-edged sword. In other words, if your understanding of analysis is based on **subjective, rigid ground** then your answers/solutions/products are for sure **questioned**. However, if your analysis is based on **objective, scientific grounds** then your answers/solutions/products are for sure **worthy of consuming**. If you search any search engine the word of analysis, you should not be surprised with the astronomical number of results on your search. The problem with many of the materials which discuss the subject of analysis is that **two perspectives are there**: 
 
 > the first, the perspective of analysis as a bunch of graphs and tables, 
+
 > and the second, the perspective of analysis is a bunch of tests and tools that applies them. 
 
 Well, one can argue there is nothing wrong with that, but the problem arises when one fails to understand the raw materials that are needed to present those tables and figures, in addition, the fundamentals of those tools and tests that produce them. To this end, **this book aims to address this mis conceptual understanding about analysis**; basically, the book materials are constructed in such way that one can:
