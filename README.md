@@ -89,15 +89,7 @@ To this end, **the second book** is carefully crafted to meet all the requiremen
 
 5. [✓] DATA TRANSFORMATION 
 
-### Research Topics & Literature Review  
-
-1. [✓] What is the research problem?  
-
-2. [✓] Conduction the Literature Review  
-
-3. [✓] Reviewing & Writing The sources of Literature  
-
-4. [✓] Conclusion 
+6. [✓] LAB-01- Three parts on data preparation 
 
 ### Descriptive Statistics 
 
@@ -113,6 +105,7 @@ To this end, **the second book** is carefully crafted to meet all the requiremen
 
 6. [✓] Multivariate descriptive
 
+7. [✓] LAB-02- analysis on univariate, bivariate, and multivariate
 
 
 ### Inferential Statistics  
@@ -130,16 +123,20 @@ To this end, **the second book** is carefully crafted to meet all the requiremen
 
 2. [✓] Statistical Software
 
-3. [✓] LAB- Implementation by *JAMOVI*   
+3. [✓] Intro- Implementation by *JAMOVI*
+
+4. [✓] LAB-03- analysis on two datasets using *JAMOVI*
 
 
-### LAB-Section –03 
+### LAB-Section –04- analysis on real dataset using jamovi 
 
 1. [✓] Review  
 
 2. [✓] EDA analysis  
 
 3. [✓] Inferential Analysis  
+
+4. [✓] LAB-04- implementation on the dataset from the first book
 
 
 ## Who is this book for?
