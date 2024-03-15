@@ -159,7 +159,7 @@ as outlined above in the introduction, this book is **the second book** from **T
 
 you can have access to the recorded lessons of this book from these outlets:
 1. [outlet_1 + Discount](https://dahmansphi.com/analysis-s2e/). 
-2. [outlet_2](https://www.udemy.com/course/analysis-s2e/)
+2. [outlet_2](https://www.udemy.com/course/analysis-s2e/?referralCode=D6AE65044A056A93826E)
 
 # The digital copy 
 you can have access to the ppt digital copy in pdf format from [digital ppt book](/assets/analysis_s2e_final.pdf) 
